@@ -37,3 +37,4 @@ class InsertionSort {
 		printArray(array);
 	}
 }
+//output-5,6,11,12,13
